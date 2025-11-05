@@ -47,6 +47,7 @@ The purpose of this dataset is to analyze supermarket sales performance across b
 
 ## 📈 3. Descriptive Statistics
 After data cleaning, the key metrics were summarized to describe the dataset’s overall characteristics.
+
 **Key Metrics**
 
 | Statistic | Quantity | Total Price (USD) |
@@ -69,9 +70,11 @@ After data cleaning, the key metrics were summarized to describe the dataset’s
 **Chart 1:** 
 <img width="974" height="558" alt="image" src="https://github.com/user-attachments/assets/4c89c0a5-3ecb-4f43-84e4-7ef4c78eff10" />
 
-Based on descriptive statistics from the dataset, members have a higher average spending per transaction (≈ USD 138) compared to normal customers (≈ USD 113). 
-This demonstrates that the membership program encourages customers to spend more, likely due to loyalty benefits or promotional offers.
+- Based on descriptive statistics from the dataset, members have a higher average spending per transaction (≈ USD 138) compared to normal customers (≈ USD 113).
+- This demonstrates that the membership program encourages customers to spend more, likely due to loyalty benefits or promotional offers.
+
 ➡️ **Implication:** The supermarket should continue enhancing its loyalty program to increase customer retention and overall revenue growth.
+
 
 
 ### 🔍 Insight 2: Members Purchase More Items and Shop More Frequently
@@ -82,11 +85,13 @@ This demonstrates that the membership program encourages customers to spend more
 **Chart 2:**  
 <img width="974" height="569" alt="image" src="https://github.com/user-attachments/assets/9ef58666-0e1d-47d1-9c3e-18d5d52fa5b8" />
 
-From the descriptive statistics of customer purchase quantity, it is observed that members made 128 transactions compared to 113 from normal customers. 
-In both branches, members tend to purchase higher quantities per transaction, particularly in the 16–20 item range.
+- From the descriptive statistics of customer purchase quantity, it is observed that members made 128 transactions compared to 113 from normal customers.
+- In both branches, members tend to purchase higher quantities per transaction, particularly in the 16–20 item range.
+
 ➡️ **Implication:** This indicates that the membership program effectively promotes repeat purchases and higher spending per visit, highlighting its importance in driving sales performance.
 
-## ✅ Summary
+
+## 📝 Summary
 
 The analysis reveals that *member customers* not only spend more per transaction but also buy in larger quantities and more frequently.  
 This insight highlights the strategic value of maintaining and expanding the **membership program** to sustain sales growth and customer loyalty.
